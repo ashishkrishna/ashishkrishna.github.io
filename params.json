@@ -1,6 +1,6 @@
 {
   "name": "Ashish Krishna",
   "tagline": "Welcome to my Page!",
-  "body": "### Coming Soon",
+  "body": "# About Me\r\n## I'm a senior at UC Berkeley majoring in EECS and Mathematics. I'm excited about a variety of different things. I especially enjoy coding at the systems level. In the future, I hope to find bridges between machine learning and otherwise workaday systems software.\r\n\r\n# Projects\r\n## I've had the fortune of working on several major projects during my time in college. I built a gender non-conforming bathroom locator app for both Android Mobile and Wear platforms in my UI class. I wrote multithreaded code to run an automated drink maker that could process two concurrent drink making requests in my Embedded Systems class . I programmed at the systems level in my Operating Systems class by writing kernel code that managed the scheduling of threads, setting up user memory, as well as designing an entire file system which was inspired by UNIX. At the moment, I'm in the final stage of writing a compiler for the COOL (Classroom Object Oriented Language). ",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
